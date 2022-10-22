@@ -1,10 +1,8 @@
-## Hi 👋 I'm Matteo Carnelos
-
-* 📚 Master's student of Computer Engineering at [University of Padua](https://www.unipd.it/en/)
-* 👨‍💻 Intern at [Grepit AB](https://www.grepit.se)
-* ⛵️ Founder of [SailTrack](https://github.com/metis-vela-unipd/sailtrack-docs)
-* 🛫 Exchange student at [Luleå University of Technology](https://www.ltu.se/?l=en)
-* 👨‍🎓 Bachelor's degree in Computer Engineering at [University of Padua](https://www.unipd.it/en/)
+* Master's student of Computer Engineering at [University of Padua](https://www.unipd.it/en/)
+* Intern at [Grepit AB](https://www.grepit.se)
+* Founder of [SailTrack](https://github.com/metis-vela-unipd/sailtrack-docs)
+* Exchange student at [Luleå University of Technology](https://www.ltu.se/?l=en)
+* Bachelor's degree in Computer Engineering at [University of Padua](https://www.unipd.it/en/)
 
 ### Languages and Tools:
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
