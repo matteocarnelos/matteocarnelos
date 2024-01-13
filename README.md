@@ -1,5 +1,5 @@
 * Embedded Software Engineer at [Grepit AB](https://www.grepit.se)
-* Founder of [SailTrack](https://github.com/metisvela/sailtrack)
+* Founder of [SailTrack](https://metisvela.github.io/sailtrack/)
 * Master's degree in Computer Engineering at [University of Padua](https://www.unipd.it/en/)
 * Exchange student at [Luleå University of Technology](https://www.ltu.se/?l=en)
 * Bachelor's degree in Computer Engineering at [University of Padua](https://www.unipd.it/en/)
